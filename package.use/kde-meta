@@ -1,0 +1,2 @@
+#kde-plasma/plasma-meta -crypt -display-manager pam -sddm
+#dev-qt/qtwebkit gstreamer
